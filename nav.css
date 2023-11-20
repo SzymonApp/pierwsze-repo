@@ -1,0 +1,44 @@
+.navdiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 24px 0 69px 0;
+  margin-left: 80px;
+  width: 90%;
+  height: 65px;
+}
+
+.navdiv a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navlogo {
+  width: 58px;
+}
+
+.nav {
+  width: 920px;
+}
+
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.nav-login {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 174px;
+}
+
+.buttonStart {
+  background-color: #1a56db;
+  border: none;
+  border-radius: 8px;
+  width: 117px;
+  height: 41px;
+  padding: 10px 20px;
+  color: #fff;
+}

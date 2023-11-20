@@ -1,0 +1,109 @@
+.ctaSection {
+  width: 90%;
+  height: 1384.34px;
+}
+
+.ctaSection p {
+  color: #9ca3af;
+  margin-top: 20px;
+}
+
+.firstdivcta {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-left: 80px;
+}
+
+.divcta-1 {
+  /* display: flex;
+  align-items: baseline; */
+  width: 540px;
+  height: 260px;
+}
+
+.divcta-1 h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.secondDivcta {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-left: 80px;
+}
+
+.divcta-2 {
+  align-items: center;
+  width: 540px;
+  height: 260px;
+}
+
+.divcta-2 h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.getInvolved {
+  width: 152px;
+  height: 41px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #1a56db;
+  border: none;
+  margin-top: 20px;
+}
+
+.getInvolved img {
+  background-color: #1a56db;
+}
+
+.learnMore {
+  width: 116px;
+  height: 41px;
+  border-radius: 8px;
+  border: 1px solid;
+  padding: 10px 20px;
+  color: #9ca3af;
+  background-color: #4b5563;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.viewAll {
+  width: 184px;
+  height: 41px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #1a56db;
+  border: none;
+  margin-top: 20px;
+}
+
+.viewAll img {
+  background-color: #1a56db;
+}
+
+.buttonMore {
+  width: 140px;
+  height: 41px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #1a56db;
+  border: none;
+  margin-top: 20px;
+}
+
+.buttonMore img {
+  background-color: #1a56db;
+}

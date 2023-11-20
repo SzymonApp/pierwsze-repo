@@ -1,0 +1,85 @@
+.contact {
+  flex-wrap: wrap;
+}
+
+.headercontact {
+  display: inline;
+  justify-content: center;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 48px;
+  text-align: center;
+  margin-bottom: 60px;
+  width: 672px;
+  height: 121px;
+}
+
+.headercontact h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.headercontact p {
+  font-size: 20px;
+  font-weight: 300;
+  color: #9ca3af;
+}
+
+.contactform {
+  display: flex;
+  justify-content: center;
+  margin-left: 80px;
+}
+
+.contactform p {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ip1 {
+  width: 640px;
+  height: 52px;
+  background-color: #4b5563;
+  border: 1px solid;
+}
+
+.ip1::placeholder {
+  color: #9ca3af;
+  padding: 10px;
+}
+
+.ip2 {
+  width: 640px;
+  height: 52px;
+  background-color: #4b5563;
+  border: 1px solid;
+}
+
+.ip2::placeholder {
+  color: #9ca3af;
+  padding: 10px;
+}
+
+.ip3 {
+  width: 640px;
+  height: 162px;
+  background-color: #4b5563;
+  border: 1px solid;
+}
+
+.ipbutton button {
+  margin-top: 10px;
+  width: 139px;
+  height: 41px;
+  border-radius: 8px;
+  border: none;
+  padding: 10px 20px;
+  background-color: #1c64f2;
+  color: #fff;
+}
+
+.ipbutton {
+  padding-bottom: 60px;
+}

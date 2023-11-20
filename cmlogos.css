@@ -1,0 +1,94 @@
+body .cmLogos {
+  background-color: #374151;
+}
+
+.cmLogos {
+  text-align: center;
+  color: #9ca3af;
+  padding-bottom: 96px;
+}
+
+.textcmLogos {
+  margin-left: 80px;
+  padding-top: 48px;
+}
+
+.textcmLogos h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.textcmLogos p {
+  font-size: 20px;
+  font-weight: 300;
+  color: #9ca3af;
+}
+
+.textcmLogos a {
+  display: flex;
+  justify-content: center;
+  color: #3f83f8;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 50px;
+}
+
+.cmLogos button {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  width: 122;
+  height: 34px;
+  border-radius: 8px;
+  border: 1px solid;
+  color: #9ca3af;
+  background-color: #4b5563;
+  padding: 8px 12px;
+}
+
+.cmLogos-1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-left: 80px;
+  width: 90%;
+  height: 132px;
+  margin-bottom: 30px;
+}
+
+.cmLogos-1 p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.cmLogos-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 80px;
+  width: 90%;
+  height: 132px;
+  margin-bottom: 30px;
+}
+
+.cmLogos-2 p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.cmLogos-3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 80px;
+  width: 90%;
+  height: 132px;
+}
+
+.cmLogos-3 p {
+  font-size: 16px;
+  font-weight: 400;
+}
